@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.Counter {
+  border: rgb(16, 8, 131) 0.2em solid;
+  margin: 1em;
+  padding: 0.8em;
+}
+
+button {
+  margin: 0.8em;
+  background-color: #bfc0ec;
+  border-radius: 5px;
+}
+
+.Counter small{
+  font-size: 1em;
+  color: blue;
+  font-weight: bold;
+  margin: 0.5em;
+}
